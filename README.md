@@ -9,3 +9,4 @@ This is a REST API project written in Django
 [Django Documentation](https://docs.djangoproject.com/en/3.0/)
 [Django REST Framework](https://www.django-rest-framework.org/)
 [Building a Blog Site with Django](https://djangocentral.com/building-a-blog-application-with-django/)
+[Django Models](https://docs.djangoproject.com/en/1.11/topics/db/models/)
