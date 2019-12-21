@@ -12,3 +12,5 @@ This is a REST API project written in Django
 [Django Models](https://docs.djangoproject.com/en/1.11/topics/db/models/)
 [PEP 8 Style Guide](https://www.python.org/dev/peps/pep-0008/)
 [Customizing Authentication in Django](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email)
+[Django Admin Site](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/)
+[Enable Django Admin](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name)
