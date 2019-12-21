@@ -1,9 +1,9 @@
 from django.db import models
 from django.contrib.auth.models import AbstractBaseUser
-from django.contrib.auth.models import PermissionMixin
+from django.contrib.auth.models import PermissionsMixin
 from django.contrib.auth.models import BaseUserManager
 
-
+# Custom user manager profile
 class UserProfileManager(BaseUserManager):
     """
     Manager for user profiles
@@ -37,7 +37,8 @@ class UserProfileManager(BaseUserManager):
 
         return user
 
-class UserProfile(AbstractBaseUser, PermissionMixin):
+# Custom user manager profile
+class UserProfile(AbstractBaseUser, PermissionsMixin):
     """
     User Profile Class to inherit from AbstractBaseUser and PermissionMixin
     https://docs.djangoproject.com/en/3.0/topics/auth/customizing/#custom-permissions
