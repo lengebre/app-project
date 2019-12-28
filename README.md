@@ -1,7 +1,7 @@
 # REST API Project
 
 
-This is a REST API project written in Django
+This is a sample project using Django and Django Rest API.
 
 
 ## Helpful Links to Use When Getting Started
@@ -14,3 +14,5 @@ This is a REST API project written in Django
 [Customizing Authentication in Django](https://docs.djangoproject.com/en/1.11/topics/auth/customizing/#django.contrib.auth.models.BaseUserManager.normalize_email) <br />
 [Django Admin Site](https://docs.djangoproject.com/en/1.11/ref/contrib/admin/) <br />
 [Enable Django Admin](https://docs.djangoproject.com/en/2.2/ref/models/options/#verbose-name) <br />
+[Django ViewSet](https://www.django-rest-framework.org/api-guide/viewsets/)<br />
+[Django Router](https://www.django-rest-framework.org/api-guide/routers/)<br />
